@@ -34,9 +34,7 @@ public:
 }; 
 
 void func(void){
-	printf("func \n");
-	printf("func \n");
-	printf("func \n");
+	printf("func \n");//b3
 }
   
 int main(void) 
