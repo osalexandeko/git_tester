@@ -39,7 +39,7 @@ void func(void){
   
 int main(void) 
 { 
-	//B1
+	//B2
 
     Base* bp = new Derived; 
     // RUN-TIME POLYMORPHISM 
