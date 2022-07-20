@@ -35,6 +35,11 @@ public:
 
 void func(void){
 	printf("func \n");
+	printf("func \n");
+	printf("func \n");
+	printf("func \n");
+	printf("func \n");
+	printf("func \n");
 }
   
 int main(void) 
